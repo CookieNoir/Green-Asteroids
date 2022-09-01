@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17497bc72c232724fb7b89c84bedf5d3, type: 3}
+  m_Name: Level 0
+  m_EditorClassIdentifier: 
+  _gridSize: 3
+  _randomSeed: 134
+  _mask: 000101000101000101000101000101000101000101000000000101000001010000010101010001010000010101010101010000000001
+  _movingEntitiesProperties:
+  - _entityPrefab: {fileID: 9011867602292129827, guid: 6c69669cc30b0db44b1eace29c651066, type: 3}
+    _startSide: 0
+    _startCellOnSide: 0
+    _startDirection: 1
+    _rotationDirection: 3
+  _maxObstaclesCount: 3
+  _levelGraphics: {fileID: 11400000, guid: 6d863c2cb88577a4aba8532baa2ca525, type: 2}
+  _cameraStartAngle: {x: 0, y: 0, z: 0}
+  _canMoveCamera: 1

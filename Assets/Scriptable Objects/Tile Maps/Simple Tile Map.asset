@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34d03433c74892143ba6c3a80acfac86, type: 3}
+  m_Name: Simple Tile Map
+  m_EditorClassIdentifier: 
+  _height: 0.2
+  _type0Prefabs:
+  - {fileID: 9112498819460701732, guid: 71bd8f1b5d7f7ca40b442ba0008f5407, type: 3}
+  _type1Prefabs:
+  - {fileID: 1720335054780773233, guid: dc8f7fe7a911e264989480a11839a3ca, type: 3}
+  - {fileID: 8533451984457221575, guid: 912488c0b5b244a43ac7f5d940124377, type: 3}
+  - {fileID: 6273537146164038757, guid: 360d7d1f9e1e16a4e887064bbd3af824, type: 3}
+  - {fileID: 2009837196001772316, guid: 7e2f642a2e9544141af45737920ade5e, type: 3}
+  _type21Prefabs:
+  - {fileID: 2927443249755013286, guid: 036fe205870c67e49ad236c84f469511, type: 3}
+  - {fileID: 1513233740484829063, guid: 83b6b2df5e3ceb44588b4ce17e8ac8f5, type: 3}
+  - {fileID: 3857428122510894280, guid: 8d24b1a1b901df241a75f3cd49e447b8, type: 3}
+  - {fileID: 4536981449522992260, guid: 1352ff04ce1e8644daec18e142855f5a, type: 3}
+  - {fileID: 7435418975242046311, guid: 7b363bc5aa39fc54b995d9ab1694e319, type: 3}
+  - {fileID: 7955835129308159725, guid: 57bca4a833b051a409adab90495fa8ff, type: 3}
+  - {fileID: 8979339716194092563, guid: 857b8eb31537c8649bd1f02b346dffb5, type: 3}
+  _type22Prefabs:
+  - {fileID: 3306932114856814382, guid: 91d7f616aaab22849a7fdb14307200d1, type: 3}
+  _type3Prefabs:
+  - {fileID: 4555980646569063349, guid: 665fb481fdba3e444b9159e61415d024, type: 3}
+  - {fileID: 6893824666264406941, guid: 5e826cdc3806f5044b770a53162729c3, type: 3}
+  - {fileID: 5421176600739781410, guid: 689989b854513744e93e704ede4458f2, type: 3}
+  - {fileID: 2206926358172961621, guid: 84e68356fa264794a9cea5862560ab28, type: 3}
+  - {fileID: 1008111541065523568, guid: 050deaef6593b8342b8862cbe934e134, type: 3}
+  _type4Prefabs:
+  - {fileID: 5997734672065652358, guid: 56af7982eeeb8a8479cfb516716bf486, type: 3}
+  - {fileID: 783376374302671064, guid: 8e1ec7a52c4e8cf468575029cd1c24ce, type: 3}
+  - {fileID: 1384687189969714964, guid: ce63c9567831d074099a90cc2df4de11, type: 3}
+  - {fileID: 5775436497221810037, guid: 9c093e03006fc6e429802a22609a66c8, type: 3}
