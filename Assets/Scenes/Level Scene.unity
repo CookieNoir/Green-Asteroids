@@ -219,7 +219,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _worldGenerator: {fileID: 1549921856}
   _tilePainter: {fileID: 1641459456}
-  _levelProperties: {fileID: 11400000, guid: 08fab8526c48bbc4498866296404be5b, type: 2}
+  _levelProperties: {fileID: 11400000, guid: ef9c487c3b6754f48a7539fcdf209c9b, type: 2}
   _entitiesManager: {fileID: 983886447}
   _obstaclesManager: {fileID: 1285334491}
   _globalValues: {fileID: 6737453}
