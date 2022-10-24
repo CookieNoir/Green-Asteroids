@@ -1,0 +1,23 @@
+{
+    "name": "Asteroids",
+    "rootNamespace": "",
+    "references": [
+        "GUID:aa5ea601ebc645444b06d88cc414d825",
+        "GUID:582a3483ee9ccb54cba0fb53ba15467b",
+        "GUID:45e1ef772c9548943bc42a5814b1bb0f",
+        "GUID:805aacd48bc105d4ca408839786e2d12",
+        "GUID:7361632a680ea454d9969430c7ab3087",
+        "GUID:908f8e78816b3334583cb287ce5be077",
+        "GUID:ddefe6195bd24874f80f71f62d89a824",
+        "GUID:5a12a498d6211f9409b6320412045c44"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

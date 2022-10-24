@@ -1,0 +1,17 @@
+{
+    "name": "Asteroids.Levels",
+    "rootNamespace": "",
+    "references": [
+        "GUID:805aacd48bc105d4ca408839786e2d12",
+        "GUID:7361632a680ea454d9969430c7ab3087"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

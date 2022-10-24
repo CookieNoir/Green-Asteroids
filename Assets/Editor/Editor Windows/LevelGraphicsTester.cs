@@ -1,9 +1,11 @@
 using UnityEngine;
 using UnityEditor;
+using Asteroids;
+using Asteroids.Levels;
 
 public class LevelGraphicsTester : EditorWindow
 {
-    public GlobalValues globalValues;
+    public GraphicsValues globalValues;
     public LevelGraphics levelGraphics;
 
     [MenuItem("Tools/Level Graphics Tester")]
@@ -14,7 +16,7 @@ public class LevelGraphicsTester : EditorWindow
 
     private void OnGUI()
     {
-        globalValues = EditorGUILayout.ObjectField("Global Values", globalValues, typeof(GlobalValues),true) as GlobalValues;
+        globalValues = EditorGUILayout.ObjectField("Global Values", globalValues, typeof(GraphicsValues),true) as GraphicsValues;
         levelGraphics = EditorGUILayout.ObjectField("Level Graphics", levelGraphics, typeof(LevelGraphics), true) as LevelGraphics;
         if (globalValues && levelGraphics && GUILayout.Button("Apply Graphics"))
         {

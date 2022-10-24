@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEditor;
+using Asteroids.Levels;
 
 [CustomEditor(typeof(LevelProperties))]
 public class LevelPropertiesEditor : Editor

@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e15e41dbc0c6b542ae3343fc35431cb, type: 3}
   m_Name: Graphics 1
   m_EditorClassIdentifier: 
-  _sunDirection: {x: 1, y: 3, z: 0}
-  _shadingTexture: {fileID: 2800000, guid: 05638b8a9ff096d498c6bcbc90e9a5a1, type: 3}
-  _skyMaterial: {fileID: 2100000, guid: a23dea54a5c4488458ffafb61e078af4, type: 2}
-  _noiseXValues: {x: 2.58, y: 6.1, z: 1.68, w: 0}
-  _noiseYValues: {x: 1.99, y: 4.63, z: 1.38, w: 0}
-  _noiseZValues: {x: 4.84, y: 4.33, z: 2.44, w: 0}
-  _windProperties: {x: 13, y: 15, z: 19, w: 0.05}
+  <SunDirection>k__BackingField: {x: 1, y: 3, z: 0}
+  <ShadingTexture>k__BackingField: {fileID: 2800000, guid: 05638b8a9ff096d498c6bcbc90e9a5a1, type: 3}
+  <SkyMaterial>k__BackingField: {fileID: 2100000, guid: a23dea54a5c4488458ffafb61e078af4, type: 2}
+  <Noise>k__BackingField:
+    <XValues>k__BackingField: {x: 2.58, y: 6.1, z: 1.68, w: 0}
+    <YValues>k__BackingField: {x: 1.99, y: 4.63, z: 1.38, w: 0}
+    <ZValues>k__BackingField: {x: 4.84, y: 4.33, z: 2.44, w: 0}
+  <WindProperties>k__BackingField: {x: 0.05, y: 0.05, z: 0.05, w: 0.05}

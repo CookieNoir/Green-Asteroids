@@ -106,7 +106,7 @@ Material:
     - _WindInfluence: 0.25
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.8392157, g: 0.6993205, b: 0.21568626, a: 1}
+    - _Color: {r: 0.9528302, g: 0.28308865, b: 0.21933071, a: 1}
     - _ColorVariationNoise: {r: 0, g: 0, b: 0, a: 0}
     - _Configuration1: {r: 1, g: 1, b: 1, a: 1}
     - _Configuration2: {r: 1, g: 1, b: 1, a: 1}
